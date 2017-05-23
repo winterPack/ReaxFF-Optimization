@@ -1,2 +1,2 @@
 # ReaxFF-Optimization
-Training code used to optimize reaxff force field (via LAMMPS)
+ReaxFF training code to optimize reaxff force field (via LAMMPS)
